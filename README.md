@@ -91,6 +91,12 @@ export LD_LIBRARY_PATH="gem5+RTL_FOLDER/ext/rtl"
 ~~~
 #### LINUX_KERNEL
 ~~~
+git clone https://github.com/torvalds/linux.git $SRC/linux
+cd $SRC/linux
+git checkout v5.10
+make ARCH=riscv CROSS_COMPILE=riscv32-unknown-linux-gnu- olddefconfig
+make ARCH=riscv CROSS_COMPILE=riscv32-unknown-linux-gnu- all -j$(nproc)
+cp vmlinux $OUT
 ~~~
 #### BERKELEY_BOOTLOADER
 ~~~

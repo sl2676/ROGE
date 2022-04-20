@@ -1,0 +1,553 @@
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: Checking for linker -Wl,--as-needed support... 
+scons: Configure: "build/.scons_config/conftest_da935ab7a2c376c10f2ce1130ab88c51_0.cc" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_da935ab7a2c376c10f2ce1130ab88c51_0.cc <-
+  |  |int main(int, char *[]) { return 0; }
+  |
+scons: Configure: "build/.scons_config/conftest_da935ab7a2c376c10f2ce1130ab88c51_0.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [     CXX] [33m.scons_config/conftest_da935ab7a2c376c10f2ce1130ab88c51_0[33m[1m.cc[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_da935ab7a2c376c10f2ce1130ab88c51_0_d317052961dd2cd6aaa247a17456ec0f" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [    LINK] [33m[33m[1m[34m[1m -> [33m[1m.scons_config/conftest_da935ab7a2c376c10f2ce1130ab88c51_0_d317052961dd2cd6aaa247a17456ec0f(B[m
+  |
+scons: Configure: (cached) yes
+
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: Checking for compiler -gz support... 
+scons: Configure: "build/.scons_config/conftest_342d5457cbf4639ef3e0d4fb7b8ef89b_0.cc" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_342d5457cbf4639ef3e0d4fb7b8ef89b_0.cc <-
+  |  |// CheckCxxFlag DO NOTHING
+  |
+scons: Configure: "build/.scons_config/conftest_342d5457cbf4639ef3e0d4fb7b8ef89b_0_34159d8eab724d7f8d42d06f80816e31.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [     CXX] [33m.scons_config/conftest_342d5457cbf4639ef3e0d4fb7b8ef89b_0[33m[1m.cc[34m[1m -> [33m[1m_34159d8eab724d7f8d42d06f80816e31.o(B[m
+  |
+scons: Configure: (cached) yes
+
+scons: Configure: Checking for linker -gz support... 
+scons: Configure: "build/.scons_config/conftest_da935ab7a2c376c10f2ce1130ab88c51_1.cc" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_da935ab7a2c376c10f2ce1130ab88c51_1.cc <-
+  |  |int main(int, char *[]) { return 0; }
+  |
+scons: Configure: "build/.scons_config/conftest_da935ab7a2c376c10f2ce1130ab88c51_1.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [     CXX] [33m.scons_config/conftest_da935ab7a2c376c10f2ce1130ab88c51_1[33m[1m.cc[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_da935ab7a2c376c10f2ce1130ab88c51_1_6812d2f779c1875a2bc1c33d3f93efd1" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [    LINK] [33m[33m[1m[34m[1m -> [33m[1m.scons_config/conftest_da935ab7a2c376c10f2ce1130ab88c51_1_6812d2f779c1875a2bc1c33d3f93efd1(B[m
+  |
+scons: Configure: (cached) yes
+
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: "build/.scons_config/conftest_00aead3e8ca21910d6e3fa70198d4d05" is up to date.
+scons: Configure: The original builder output was:
+  |
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: Checking for C header file Python.h... 
+scons: Configure: "build/.scons_config/conftest_6f79fff2b5fa95157216534d203df494_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_6f79fff2b5fa95157216534d203df494_0.c <-
+  |  |
+  |  |#include <Python.h>
+  |  |
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_6f79fff2b5fa95157216534d203df494_0_8c2d4efd07171fff31d2de142d498db6.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_6f79fff2b5fa95157216534d203df494_0[33m[1m.c[34m[1m -> [33m[1m_8c2d4efd07171fff31d2de142d498db6.o(B[m
+  |
+scons: Configure: (cached) yes
+
+scons: Configure: Checking Python version... 
+scons: Configure: "build/.scons_config/conftest_2176b2d932a60acfa5b4079f6e5ab92b_0.cc" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_2176b2d932a60acfa5b4079f6e5ab92b_0.cc <-
+  |  |
+  |  |#include <pybind11/embed.h>
+  |  |
+  |  |int
+  |  |main(int argc, char **argv) {
+  |  |    pybind11::scoped_interpreter guard{};
+  |  |    pybind11::exec(
+  |  |        "import sys\n"
+  |  |        "vi = sys.version_info\n"
+  |  |        "sys.stdout.write('%i.%i.%i' % (vi.major, vi.minor, vi.micro));\n");
+  |  |    return 0;
+  |  |}
+  |  |    
+  |
+scons: Configure: "build/.scons_config/conftest_2176b2d932a60acfa5b4079f6e5ab92b_0.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [     CXX] [33m.scons_config/conftest_2176b2d932a60acfa5b4079f6e5ab92b_0[33m[1m.cc[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_2176b2d932a60acfa5b4079f6e5ab92b_0_19797309898ea96c0549faafc21838b6" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [    LINK] [33m[33m[1m[34m[1m -> [33m[1m.scons_config/conftest_2176b2d932a60acfa5b4079f6e5ab92b_0_19797309898ea96c0549faafc21838b6(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_2176b2d932a60acfa5b4079f6e5ab92b_0_19797309898ea96c0549faafc21838b6.out" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_2176b2d932a60acfa5b4079f6e5ab92b_0_19797309898ea96c0549faafc21838b6 > build/.scons_config/conftest_2176b2d932a60acfa5b4079f6e5ab92b_0_19797309898ea96c0549faafc21838b6.out
+  |
+scons: Configure: (cached) 3.9.10
+
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: Checking for accept(0,0,0) in C++ library None... 
+scons: Configure: "build/.scons_config/conftest_af8423c78aecfef602aceff7a3b40c1c_0.cpp" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_af8423c78aecfef602aceff7a3b40c1c_0.cpp <-
+  |  |
+  |  |
+  |  |#include "sys/socket.h"
+  |  |
+  |  |int
+  |  |main() {
+  |  |  accept(0,0,0);
+  |  |return 0;
+  |  |}
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_af8423c78aecfef602aceff7a3b40c1c_0.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [     CXX] [33m.scons_config/conftest_af8423c78aecfef602aceff7a3b40c1c_0[33m[1m.cpp[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_af8423c78aecfef602aceff7a3b40c1c_0_83fbf5986f1e4f2a615e4c7be813d770" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [    LINK] [33m[33m[1m[34m[1m -> [33m[1m.scons_config/conftest_af8423c78aecfef602aceff7a3b40c1c_0_83fbf5986f1e4f2a615e4c7be813d770(B[m
+  |
+scons: Configure: (cached) yes
+
+scons: Configure: Checking for zlibVersion() in C++ library z... 
+scons: Configure: "build/.scons_config/conftest_127f08e7208dda7ee2cdf0b86065031e_0.cpp" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_127f08e7208dda7ee2cdf0b86065031e_0.cpp <-
+  |  |
+  |  |
+  |  |#include "zlib.h"
+  |  |
+  |  |int
+  |  |main() {
+  |  |  zlibVersion();
+  |  |return 0;
+  |  |}
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_127f08e7208dda7ee2cdf0b86065031e_0.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [     CXX] [33m.scons_config/conftest_127f08e7208dda7ee2cdf0b86065031e_0[33m[1m.cpp[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_127f08e7208dda7ee2cdf0b86065031e_0_759e4da3a2770c5c56a8e0c2184e6589" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [    LINK] [33m[33m[1m[34m[1m -> [33m[1m.scons_config/conftest_127f08e7208dda7ee2cdf0b86065031e_0_759e4da3a2770c5c56a8e0c2184e6589(B[m
+  |
+scons: Configure: (cached) yes
+
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: Checking for C library tcmalloc... 
+scons: Configure: "build/.scons_config/conftest_df286a1d2f67e69d030b4eff75ca7e12_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_df286a1d2f67e69d030b4eff75ca7e12_0.c <-
+  |  |
+  |  |
+  |  |
+  |  |int
+  |  |main() {
+  |  |  
+  |  |return 0;
+  |  |}
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_df286a1d2f67e69d030b4eff75ca7e12_0.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_df286a1d2f67e69d030b4eff75ca7e12_0[33m[1m.c[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_df286a1d2f67e69d030b4eff75ca7e12_0_20cd1945076f5fe7e0360c75d7841755" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [    LINK] [33m[33m[1m[34m[1m -> [33m[1m.scons_config/conftest_df286a1d2f67e69d030b4eff75ca7e12_0_20cd1945076f5fe7e0360c75d7841755(B[m
+  |
+scons: Configure: (cached) yes
+
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: Checking for C header file fenv.h... 
+scons: Configure: "build/.scons_config/conftest_b63620e7908057d9c68909c7dea2f0c0_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_b63620e7908057d9c68909c7dea2f0c0_0.c <-
+  |  |
+  |  |#include <fenv.h>
+  |  |
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_b63620e7908057d9c68909c7dea2f0c0_0_68027298866ec19c10f40e60f8219434.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_b63620e7908057d9c68909c7dea2f0c0_0[33m[1m.c[34m[1m -> [33m[1m_68027298866ec19c10f40e60f8219434.o(B[m
+  |
+scons: Configure: (cached) yes
+
+scons: Configure: Checking for C header file png.h... 
+scons: Configure: "build/.scons_config/conftest_6a115e90d1ef31132299ba5de9361ca4_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_6a115e90d1ef31132299ba5de9361ca4_0.c <-
+  |  |
+  |  |#include <png.h>
+  |  |
+  |  |
+  |
+scons: Configure: Building "build/.scons_config/conftest_6a115e90d1ef31132299ba5de9361ca4_0_524ee1d45eb034e8a73e4cee9cbbb696.o" failed in a previous run and all its sources are up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_6a115e90d1ef31132299ba5de9361ca4_0[33m[1m.c[34m[1m -> [33m[1m_524ee1d45eb034e8a73e4cee9cbbb696.o(B[m
+  |
+scons: Configure: (cached) no
+
+scons: Configure: Checking for clock_nanosleep(0,0,NULL,NULL) in C library None... 
+scons: Configure: "build/.scons_config/conftest_819d0186bc60125ca639270b0e90357e_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_819d0186bc60125ca639270b0e90357e_0.c <-
+  |  |
+  |  |
+  |  |#include "time.h"
+  |  |
+  |  |int
+  |  |main() {
+  |  |  clock_nanosleep(0,0,NULL,NULL);
+  |  |return 0;
+  |  |}
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_819d0186bc60125ca639270b0e90357e_0.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_819d0186bc60125ca639270b0e90357e_0[33m[1m.c[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_819d0186bc60125ca639270b0e90357e_0_92b7e71b1bcdffdc0ddb230eb1b79041" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [    LINK] [33m[33m[1m[34m[1m -> [33m[1m.scons_config/conftest_819d0186bc60125ca639270b0e90357e_0_92b7e71b1bcdffdc0ddb230eb1b79041(B[m
+  |
+scons: Configure: (cached) yes
+
+scons: Configure: Checking for C header file valgrind/valgrind.h... 
+scons: Configure: "build/.scons_config/conftest_fc44fbdd5cf1cbd0f4445fc96a17746b_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_fc44fbdd5cf1cbd0f4445fc96a17746b_0.c <-
+  |  |
+  |  |#include "valgrind/valgrind.h"
+  |  |
+  |  |
+  |
+scons: Configure: Building "build/.scons_config/conftest_fc44fbdd5cf1cbd0f4445fc96a17746b_0_ea60f4bc210c9aa375f5e3ec77caf2f9.o" failed in a previous run and all its sources are up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_fc44fbdd5cf1cbd0f4445fc96a17746b_0[33m[1m.c[34m[1m -> [33m[1m_ea60f4bc210c9aa375f5e3ec77caf2f9.o(B[m
+  |
+scons: Configure: (cached) no
+
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: "build/.scons_config/conftest_76826d42b48bf7dcbdd4a5a6f80d7da9_0.cc" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_76826d42b48bf7dcbdd4a5a6f80d7da9_0.cc <-
+  |  |
+  |  |        int main() {return 0;}
+  |  |        namespace [[gnu::deprecated("Test namespace deprecation")]]
+  |  |        test_deprecated_namespace {}
+  |  |    
+  |
+scons: Configure: "build/.scons_config/conftest_76826d42b48bf7dcbdd4a5a6f80d7da9_0_6ff9f477776c09e276ca8d4f25371218.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [     CXX] [33m.scons_config/conftest_76826d42b48bf7dcbdd4a5a6f80d7da9_0[33m[1m.cc[34m[1m -> [33m[1m_6ff9f477776c09e276ca8d4f25371218.o(B[m
+  |
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: Checking for pkg-config package hdf5-serial... 
+scons: Configure: Building "build/.scons_config/conftest_fc89b39279685ff98c851e10590e2f7f" failed in a previous run and all its sources are up to date.
+scons: Configure: The original builder output was:
+  |pkg-config hdf5-serial
+  |
+scons: Configure: (cached) no
+
+scons: Configure: Checking for pkg-config package hdf5... 
+scons: Configure: Building "build/.scons_config/conftest_84ab44f5cba9cb9da49a154d1c2c4a1b" failed in a previous run and all its sources are up to date.
+scons: Configure: The original builder output was:
+  |pkg-config hdf5
+  |
+scons: Configure: (cached) no
+
+scons: Configure: Checking for H5Fcreate("", 0, 0, 0) in C library hdf5... 
+scons: Configure: "build/.scons_config/conftest_0ad74dca69d9d81623853ceb0deac13c_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_0ad74dca69d9d81623853ceb0deac13c_0.c <-
+  |  |
+  |  |
+  |  |#include "hdf5.h"
+  |  |
+  |  |int
+  |  |main() {
+  |  |  H5Fcreate("", 0, 0, 0);
+  |  |return 0;
+  |  |}
+  |  |
+  |
+scons: Configure: Building "build/.scons_config/conftest_0ad74dca69d9d81623853ceb0deac13c_0.o" failed in a previous run and all its sources are up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_0ad74dca69d9d81623853ceb0deac13c_0[33m[1m.c[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: (cached) no
+
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: Checking for pkg-config package protobuf... 
+scons: Configure: "build/.scons_config/conftest_6af8fc24f33b2e97803cd27c62dd06bf" is up to date.
+scons: Configure: The original builder output was:
+  |pkg-config protobuf
+  |
+scons: Configure: (cached) yes
+
+scons: Configure: Checking for GOOGLE_PROTOBUF_VERIFY_VERSION in C++ library protobuf... 
+scons: Configure: "build/.scons_config/conftest_7adb4f9694f1b71cf521a688c0754b92_0.cpp" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_7adb4f9694f1b71cf521a688c0754b92_0.cpp <-
+  |  |
+  |  |
+  |  |#include "google/protobuf/message.h"
+  |  |
+  |  |int
+  |  |main() {
+  |  |  GOOGLE_PROTOBUF_VERIFY_VERSION;
+  |  |return 0;
+  |  |}
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_7adb4f9694f1b71cf521a688c0754b92_0.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [     CXX] [33m.scons_config/conftest_7adb4f9694f1b71cf521a688c0754b92_0[33m[1m.cpp[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_7adb4f9694f1b71cf521a688c0754b92_0_569a1c70527875c82a9e286ccd135713" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [    LINK] [33m[33m[1m[34m[1m -> [33m[1m.scons_config/conftest_7adb4f9694f1b71cf521a688c0754b92_0_569a1c70527875c82a9e286ccd135713(B[m
+  |
+scons: Configure: (cached) yes
+
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: Checking for C header file linux/kvm.h... 
+scons: Configure: "build/.scons_config/conftest_3d4db39b7cb946e659f69394900767da_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_3d4db39b7cb946e659f69394900767da_0.c <-
+  |  |
+  |  |#include <linux/kvm.h>
+  |  |
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_3d4db39b7cb946e659f69394900767da_0_be7033b3797761e1d633cf9f14745d88.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_3d4db39b7cb946e659f69394900767da_0[33m[1m.c[34m[1m -> [33m[1m_be7033b3797761e1d633cf9f14745d88.o(B[m
+  |
+scons: Configure: (cached) yes
+
+scons: Configure: Checking for timer_create(CLOCK_MONOTONIC, NULL, NULL) in C library None... 
+scons: Configure: "build/.scons_config/conftest_52844ad72d03fb661a0391b3dd5b5418_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_52844ad72d03fb661a0391b3dd5b5418_0.c <-
+  |  |
+  |  |
+  |  |#include "time.h"
+  |  |#include "signal.h"
+  |  |
+  |  |int
+  |  |main() {
+  |  |  timer_create(CLOCK_MONOTONIC, NULL, NULL);
+  |  |return 0;
+  |  |}
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_52844ad72d03fb661a0391b3dd5b5418_0.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_52844ad72d03fb661a0391b3dd5b5418_0[33m[1m.c[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: Building "build/.scons_config/conftest_52844ad72d03fb661a0391b3dd5b5418_0_dac1410ecc9c4fdda9662eb7184ff5d6" failed in a previous run and all its sources are up to date.
+scons: Configure: The original builder output was:
+  |(B[m [    LINK] [33m[33m[1m[34m[1m -> [33m[1m.scons_config/conftest_52844ad72d03fb661a0391b3dd5b5418_0_dac1410ecc9c4fdda9662eb7184ff5d6(B[m
+  |
+scons: Configure: (cached) no
+
+scons: Configure: Checking for timer_create(CLOCK_MONOTONIC, NULL, NULL) in C library rt... 
+scons: Configure: "build/.scons_config/conftest_52844ad72d03fb661a0391b3dd5b5418_1.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_52844ad72d03fb661a0391b3dd5b5418_1.c <-
+  |  |
+  |  |
+  |  |#include "time.h"
+  |  |#include "signal.h"
+  |  |
+  |  |int
+  |  |main() {
+  |  |  timer_create(CLOCK_MONOTONIC, NULL, NULL);
+  |  |return 0;
+  |  |}
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_52844ad72d03fb661a0391b3dd5b5418_1.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_52844ad72d03fb661a0391b3dd5b5418_1[33m[1m.c[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_52844ad72d03fb661a0391b3dd5b5418_1_64efa147db32200898ba638411944ff2" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [    LINK] [33m[33m[1m[34m[1m -> [33m[1m.scons_config/conftest_52844ad72d03fb661a0391b3dd5b5418_1_64efa147db32200898ba638411944ff2(B[m
+  |
+scons: Configure: (cached) yes
+
+scons: Configure: Checking size of struct kvm_xsave ... 
+scons: Configure: "build/.scons_config/conftest_2839316246cd081d6a26d89ee110bbfb_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_2839316246cd081d6a26d89ee110bbfb_0.c <-
+  |  |#include <linux/kvm.h>
+  |  |#include <stdlib.h>
+  |  |#include <stdio.h>
+  |  |int main(void) {
+  |  |    printf("%d", (int)sizeof(struct kvm_xsave));
+  |  |    return 0;
+  |  |}
+  |  |    
+  |
+scons: Configure: "build/.scons_config/conftest_2839316246cd081d6a26d89ee110bbfb_0.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_2839316246cd081d6a26d89ee110bbfb_0[33m[1m.c[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_2839316246cd081d6a26d89ee110bbfb_0_36359896d279180668d5d6c0c3079121" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [    LINK] [33m[33m[1m[34m[1m -> [33m[1m.scons_config/conftest_2839316246cd081d6a26d89ee110bbfb_0_36359896d279180668d5d6c0c3079121(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_2839316246cd081d6a26d89ee110bbfb_0_36359896d279180668d5d6c0c3079121.out" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_2839316246cd081d6a26d89ee110bbfb_0_36359896d279180668d5d6c0c3079121 > build/.scons_config/conftest_2839316246cd081d6a26d89ee110bbfb_0_36359896d279180668d5d6c0c3079121.out
+  |
+scons: Configure: (cached) yes
+
+scons: Configure: Checking for member exclude_host in struct perf_event_attr...
+scons: Configure: "build/.scons_config/conftest_238ff365ce93d3042571511343a9ce78_0.cc" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_238ff365ce93d3042571511343a9ce78_0.cc <-
+  |  |
+  |  |#include <linux/perf_event.h>
+  |  |int main(){
+  |  |  struct perf_event_attr test;
+  |  |  (void)test.exclude_host;
+  |  |  return 0;
+  |  |};
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_238ff365ce93d3042571511343a9ce78_0_e87ffe67231ab8265c1bef91757d5b01.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [     CXX] [33m.scons_config/conftest_238ff365ce93d3042571511343a9ce78_0[33m[1m.cc[34m[1m -> [33m[1m_e87ffe67231ab8265c1bef91757d5b01.o(B[m
+  |
+scons: Configure: (cached) yes
+
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: Checking for shm_open("/test", 0, 0) in C library None... 
+scons: Configure: "build/.scons_config/conftest_e16879e797847a0d9ca4fafbdcae0c4c_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_e16879e797847a0d9ca4fafbdcae0c4c_0.c <-
+  |  |
+  |  |
+  |  |#include "sys/mman.h"
+  |  |
+  |  |int
+  |  |main() {
+  |  |  shm_open("/test", 0, 0);
+  |  |return 0;
+  |  |}
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_e16879e797847a0d9ca4fafbdcae0c4c_0.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_e16879e797847a0d9ca4fafbdcae0c4c_0[33m[1m.c[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_e16879e797847a0d9ca4fafbdcae0c4c_0_29843186e5d68ad3310f7cc9c4298824" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [    LINK] [33m[33m[1m[34m[1m -> [33m[1m.scons_config/conftest_e16879e797847a0d9ca4fafbdcae0c4c_0_29843186e5d68ad3310f7cc9c4298824(B[m
+  |
+scons: Configure: (cached) yes
+
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: Checking for C header file linux/if_tun.h... 
+scons: Configure: "build/.scons_config/conftest_479afe281e6dd1a87a0a74ae5e0195a7_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_479afe281e6dd1a87a0a74ae5e0195a7_0.c <-
+  |  |
+  |  |#include <linux/if_tun.h>
+  |  |
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_479afe281e6dd1a87a0a74ae5e0195a7_0_571a6afc89eaa05cb0b144644787a300.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_479afe281e6dd1a87a0a74ae5e0195a7_0[33m[1m.c[34m[1m -> [33m[1m_571a6afc89eaa05cb0b144644787a300.o(B[m
+  |
+scons: Configure: (cached) yes
+
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: Checking for char temp; backtrace_symbols_fd((void *)&temp, 0, 0) in C library None... 
+scons: Configure: "build/.scons_config/conftest_e36519c6d3d20baabf272ad43a32d8ff_0.c" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_e36519c6d3d20baabf272ad43a32d8ff_0.c <-
+  |  |
+  |  |
+  |  |#include "execinfo.h"
+  |  |
+  |  |int
+  |  |main() {
+  |  |  char temp; backtrace_symbols_fd((void *)&temp, 0, 0);
+  |  |return 0;
+  |  |}
+  |  |
+  |
+scons: Configure: "build/.scons_config/conftest_e36519c6d3d20baabf272ad43a32d8ff_0.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [      CC] [33m.scons_config/conftest_e36519c6d3d20baabf272ad43a32d8ff_0[33m[1m.c[34m[1m -> [33m[1m.o(B[m
+  |
+scons: Configure: "build/.scons_config/conftest_e36519c6d3d20baabf272ad43a32d8ff_0_bf3d3119799f649b9dc2d9c79d62029d" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [    LINK] [33m[33m[1m[34m[1m -> [33m[1m.scons_config/conftest_e36519c6d3d20baabf272ad43a32d8ff_0_bf3d3119799f649b9dc2d9c79d62029d(B[m
+  |
+scons: Configure: (cached) yes
+
+
+file /home/sean/gem5_rtl_framework/site_scons/gem5_scons/configure.py,line 152:
+	Configure(confdir = build/.scons_config)
+scons: Configure: Checking for compiler -Wno-self-assign-overloaded support... 
+scons: Configure: "build/.scons_config/conftest_342d5457cbf4639ef3e0d4fb7b8ef89b_1.cc" is up to date.
+scons: Configure: The original builder output was:
+  |build/.scons_config/conftest_342d5457cbf4639ef3e0d4fb7b8ef89b_1.cc <-
+  |  |// CheckCxxFlag DO NOTHING
+  |
+scons: Configure: "build/.scons_config/conftest_342d5457cbf4639ef3e0d4fb7b8ef89b_1_80563aafb607720a40b0d62df679fde3.o" is up to date.
+scons: Configure: The original builder output was:
+  |(B[m [     CXX] [33m.scons_config/conftest_342d5457cbf4639ef3e0d4fb7b8ef89b_1[33m[1m.cc[34m[1m -> [33m[1m_80563aafb607720a40b0d62df679fde3.o(B[m
+  |
+scons: Configure: (cached) yes
+
+

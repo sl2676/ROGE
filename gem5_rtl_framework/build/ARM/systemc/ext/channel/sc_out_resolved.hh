@@ -1,0 +1,1 @@
+/home/sean/gem5-rtl/src/systemc/ext/channel/sc_out_resolved.hh

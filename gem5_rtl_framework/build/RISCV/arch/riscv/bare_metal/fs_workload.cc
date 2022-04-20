@@ -1,0 +1,1 @@
+/home/sean/gem5_rtl_framework/src/arch/riscv/bare_metal/fs_workload.cc

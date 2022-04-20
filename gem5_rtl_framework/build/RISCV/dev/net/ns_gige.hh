@@ -1,0 +1,1 @@
+/home/sean/gem5_rtl_framework/src/dev/net/ns_gige.hh

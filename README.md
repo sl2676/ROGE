@@ -67,7 +67,7 @@ make -j (e.g. 2|4|8)
 export VERILATOR_ROOT=/Specific/location
 ~~~
 #### BUILD_RTL_C++_MODEL_USING_VERILATOR
-
+FIFO example we can use for the rtl object
 ~~~
 cd ext/rtl/model_fifo
 make

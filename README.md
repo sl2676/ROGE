@@ -45,7 +45,7 @@ sudo apt install -y build-essential git m4 scons zlib1g zlib1g-dev libprotobuf-d
 ~~~
 #### GEM5_RTL INSTALLATION
 ~~~
-git clone https://github.com/sl2676/ROGE.git
+git clone https://github.com/sl2676/ROGE.git $G5
 ~~~
 #### INSTALL_VERILATOR
 ~~~

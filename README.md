@@ -105,7 +105,7 @@ mkdir -p $SRC/pk/build
 cd $SRC/pk/build
 ../configure --host=riscv32-unknown-linux-gnu --with-payload=$OUT/vmlinux --prefix=$RISCV
 CFLAGS="-g" make -j$(nproc)
-make install
+sudo make install
 cp bbl $OUT
 ~~~
 #### PARSING AND DUMPING DTS

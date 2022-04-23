@@ -26,8 +26,8 @@ sudo apt-get install -y autoconf automake autotools-dev curl python3 libmpc-dev 
 git clone https://github.com/riscv/riscv-gnu-toolchain $SRC/toolchain
 cd $SRC/toolchain
 ./configure --prefix=$RISCV --with-arch=rv32gc --with-abi=ilp32d
-make linux -j$(nproc)
-make newlib -j$(nproc)
+sudo make linux -j$(nproc)
+sudo make newlib -j$(nproc)
 ~~~
 # QEMU
 ~~~
@@ -35,8 +35,8 @@ sudo apt-get install -y git libglib2.0-dev libfdt-dev libpixman-1-dev zlib1g-dev
 git clone https://git.qemu.org/git/qemu.git $SRC/qemu
 cd $SRC/qemu
 ./configure --target-list=riscv32-softmmu --prefix=$RISCV
-make -j$(nproc)
-make install
+sudo make -j$(nproc)
+sudo make install
 ~~~
 # GEM5 & RTL_FRAMEWORK
 #### DEPENDENCIES

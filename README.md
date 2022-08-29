@@ -84,11 +84,13 @@ export LD_LIBRARY_PATH="gem5+RTL_FOLDER/ext/rtl"
 ~~~
 # BAREMETAL
 ~~~
+IP
 ~~~
 # LINUX_SYSTEM
 
 #### BUSY_BOX-DISK_IMAGE
 ~~~
+IP
 ~~~
 #### LINUX_KERNEL
 ~~~

@@ -77,7 +77,7 @@ make library_vcd
 make install
 ~~~
 ~~~
-cd $G5 && scons build/RISCV/gem5.opt -j$(nproc)
+cd $G5/gem5_rtl_framework && scons build/RISCV/gem5.opt -j$(nproc)
 
 #Before executing you need to set up the LIBRARY_PATH to the place where the shared library of the RTL Object resides:
 export LD_LIBRARY_PATH="gem5+RTL_FOLDER/ext/rtl"
